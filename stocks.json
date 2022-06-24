@@ -1,0 +1,87 @@
+{ "index":
+[
+    { "type" : "NSE_INDEX", "code" : "Nifty IT", "weightage": 15.36,
+        "stocks":[
+            { "type" : "NSE_EQ", "code" : "4503", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "11543", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "3787", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "14356", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "13538", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "7229", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "1594", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "740", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "17818", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "11536", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "10738", "weightage": 0}
+         ] },
+    { "type" : "NSE_INDEX", "code" : "Nifty 50", "weightage": 100.00 },
+    { "type" : "NSE_INDEX", "code" : "Nifty Media", "weightage": 0.00 },
+    { "type" : "NSE_INDEX", "code" : "Nifty Energy", "weightage": 14.42,
+        "stocks":[
+            { "type" : "NSE_EQ", "code" : "2475", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "2885", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "3426", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "526", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "4717", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "1624", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "11630", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "14977", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "3563", "weightage": 0}
+         ] },
+    { "type" : "NSE_INDEX", "code" : "Nifty Bank", "weightage": 39.47,
+        "stocks":[
+            { "type" : "NSE_EQ", "code" : "317", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "5258", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "16675", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "3045", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "1333", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "5900", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "11439", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "1922", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "1330", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "4963", "weightage": 0}
+         ] },
+    { "type" : "NSE_INDEX", "code" : "Nifty Pharma", "weightage": 2.33 ,
+        "stocks":[
+            { "type" : "NSE_EQ", "code" : "881", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "694", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "157", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "10940", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "3351", "weightage": 0}
+         ]},
+    { "type" : "NSE_INDEX", "code" : "Nifty Infra", "weightage": 0.00 },
+    { "type" : "NSE_INDEX", "code" : "Nifty Auto", "weightage": 5.43,
+        "stocks":[
+            { "type" : "NSE_EQ", "code" : "3456", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "8479", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "910", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "2031", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "16669", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "1348", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "10999", "weightage": 0}
+         ] },
+    { "type" : "NSE_INDEX", "code" : "Nifty FMCG", "weightage": 11.04,
+        "stocks":[
+            { "type" : "NSE_EQ", "code" : "8112", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "1660", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "772", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "10447", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "15141", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "1394", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "547", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "19913", "weightage": 0}
+         ] },
+    { "type" : "NSE_INDEX", "code" : "Nifty Metal", "weightage": 2.97,
+        "stocks": [
+            { "type" : "NSE_EQ", "code" : "11287", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "1363", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "3063", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "20374", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "11723", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "3499", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "25", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "3506", "weightage": 0},
+            { "type" : "NSE_EQ", "code" : "1232", "weightage": 0}
+         ] }
+ ]
+}
